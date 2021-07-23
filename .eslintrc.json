@@ -4,7 +4,7 @@
     "project": "./tsconfig.json"
   },
   "rules": {
-    "@typescript-eslint/consistent-type-definitions": "off", // Não usar interface e type
-    "@typescript-eslint/strict-boolean-expressions": "off" // Não deixa fazer comparações do tipo bool
+    "@typescript-eslint/consistent-type-definitions": "off",
+    "@typescript-eslint/strict-boolean-expressions": "off"
   }
 }
